@@ -1,2 +1,3 @@
 .idea
 erlpr.iml
+src/*.beam
